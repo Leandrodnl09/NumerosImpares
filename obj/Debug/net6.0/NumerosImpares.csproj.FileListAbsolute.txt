@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\bin\Debug\net6.0\NumerosImpares.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\bin\Debug\net6.0\NumerosImpares.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\bin\Debug\net6.0\NumerosImpares.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\bin\Debug\net6.0\NumerosImpares.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\bin\Debug\net6.0\NumerosImpares.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\refint\NumerosImpares.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\NumerosImpares.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosImpares\obj\Debug\net6.0\ref\NumerosImpares.dll
